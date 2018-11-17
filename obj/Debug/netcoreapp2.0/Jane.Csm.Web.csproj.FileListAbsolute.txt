@@ -1,0 +1,8 @@
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\bin\Debug\netcoreapp2.0\Jane.Csm.Web.deps.json
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\bin\Debug\netcoreapp2.0\Jane.Csm.Web.runtimeconfig.json
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\bin\Debug\netcoreapp2.0\Jane.Csm.Web.runtimeconfig.dev.json
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\bin\Debug\netcoreapp2.0\Jane.Csm.Web.dll
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\obj\Debug\netcoreapp2.0\Jane.Csm.Web.csprojResolveAssemblyReference.cache
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\obj\Debug\netcoreapp2.0\Jane.Csm.Web.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\obj\Debug\netcoreapp2.0\Jane.Csm.Web.AssemblyInfoInputs.cache
+C:\Users\COMLABPC4\Desktop\Seed\Jane.Csm.Web\Jane.Csm.Web\obj\Debug\netcoreapp2.0\Jane.Csm.Web.AssemblyInfo.cs
